@@ -1,0 +1,14 @@
+{
+  "name": "gce-restart-preempted",
+  "description": "Google Compute Engine Auto Restart Preempted",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "repository": "kghost/gce-restart-preempted",
+  "main": "./index.js",
+  "dependencies": {
+    "@google-cloud/compute": "^1.1.2"
+  }
+}
